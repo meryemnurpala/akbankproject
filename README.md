@@ -18,7 +18,7 @@ Kullanım
 1️⃣ Python ile Çalıştırma
 Python'un yüklü olduğundan emin olun.
 Proje klasörüne gidin:
-cd akbankproject
+cd MeryemnurPala_MetroSimulation
 ve kodu çalıştırın
 python MeryemnurPala_MetroSimulation.py
 
@@ -34,5 +34,4 @@ Program çalıştırıldığında, örnek metro ağı üzerinden aşağıdaki te
 🔹 En hızlı rota için: A Algoritması* (Öncelikli Kuyruk - heapq)
 
 Örnek Çıktı:
-
-![Ekran görüntüsü 2025-03-23 182544](https://github.com/user-attachments/assets/95ff7146-9287-4151-8db6-8c617f0151b3)
+![Ekran görüntüsü 2025-03-23 195852](https://github.com/user-attachments/assets/08646bca-5a9a-4f6a-815e-8faa9dee6864)
